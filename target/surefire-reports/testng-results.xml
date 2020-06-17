@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52" started-at="2020-05-17T13:58:28 IST" finished-at="2020-05-17T13:58:28 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52" started-at="2020-05-17T13:58:28 IST" finished-at="2020-05-17T13:58:28 IST">
+      <class name="yahoo.AppiumTest">
+        <test-method status="PASS" signature="mobileLogin()[pri:0, instance:yahoo.AppiumTest@6fc6f14e]" name="mobileLogin" duration-ms="5" started-at="2020-05-17T13:58:28 IST" finished-at="2020-05-17T13:58:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLogin -->
+        <test-method status="PASS" signature="mobileLogout()[pri:0, instance:yahoo.AppiumTest@6fc6f14e]" name="mobileLogout" duration-ms="1" started-at="2020-05-17T13:58:28 IST" finished-at="2020-05-17T13:58:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobileLogout -->
+      </class> <!-- yahoo.AppiumTest -->
+      <class name="yahoo.SeleniumTest">
+        <test-method status="PASS" signature="closeWindow()[pri:0, instance:yahoo.SeleniumTest@56235b8e]" name="closeWindow" duration-ms="0" started-at="2020-05-17T13:58:28 IST" finished-at="2020-05-17T13:58:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeWindow -->
+        <test-method status="PASS" signature="openWindow()[pri:0, instance:yahoo.SeleniumTest@56235b8e]" name="openWindow" duration-ms="0" started-at="2020-05-17T13:58:28 IST" finished-at="2020-05-17T13:58:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openWindow -->
+      </class> <!-- yahoo.SeleniumTest -->
+      <class name="yahoo.RestapiTest">
+        <test-method status="PASS" signature="acceptCookies()[pri:0, instance:yahoo.RestapiTest@3632be31]" name="acceptCookies" duration-ms="1" started-at="2020-05-17T13:58:28 IST" finished-at="2020-05-17T13:58:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acceptCookies -->
+        <test-method status="PASS" signature="deleteCookies()[pri:0, instance:yahoo.RestapiTest@3632be31]" name="deleteCookies" duration-ms="0" started-at="2020-05-17T13:58:28 IST" finished-at="2020-05-17T13:58:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+      </class> <!-- yahoo.RestapiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
